@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 <!-- ### Hi there 👋
-My name is Yassine Nifa, I am a fullstack developer and I work in Paris, France
+My name is **Yassine Nifa**, I am a fullstack developer and I work in Paris, France
  -->
 
 <!-- <hr/> -->
