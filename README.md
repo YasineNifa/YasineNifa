@@ -50,8 +50,9 @@ My name is Yassine Nifa, I am a fullstack developer and I work in Paris, France
 ### :fire: My Stats :
 <hr/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasineNifa&theme=dark&background=000000)](https://git.io/streak-stats) \
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasineNifa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasineNifa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YasineNifa&show_icons=true&theme=dark&background=000000" alt="Yassine" /></p>
 
 
 
