@@ -13,6 +13,8 @@ My name is **Yassine Nifa**, I am a fullstack developer and I work in Paris, Fra
 ### :man_technologist: About Me :
 <hr/>
 
+Hello 🖐️ friends, welcome to my github. My name is **Yassine**
+
 - :telescope: I’m working as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
