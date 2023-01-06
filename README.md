@@ -52,7 +52,9 @@ Hello 🖐️ friends, welcome to my github. My name is **Yassine**
 ### :fire: My Stats :
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasineNifa)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasineNifa)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasineNifa&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YasineNifa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasineNifa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YasineNifa&show_icons=true&theme=dark&background=000000" alt="Yassine" /></p> -->
