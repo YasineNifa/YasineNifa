@@ -5,21 +5,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rowdies&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+web+and+web+developer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-
-<details>
- <summary><h2>🧍About Me</h2></summary>
-- :telescope: I’m working as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :writing_hand: You can reach me in <div id="badges"> 
-  <a href="https://www.linkedin.com/in/yassinenifa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
-  </a>
-</div>
-
-</details>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
