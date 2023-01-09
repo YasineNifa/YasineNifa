@@ -1,8 +1,9 @@
 <p align="center">
-  <span>Hello 🖐️, welcome to my github</span>
-  <a href="https://github.com/YasineNifa">
-    <strong>Yassine Nifa </strong>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rowdies&duration=1&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Yassine+Nifa" alt="Typing SVG" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rowdies&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+web+and+web+developer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <details>
